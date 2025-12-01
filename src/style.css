@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{
+    font-family: "Roboto", sans-serif;
+}
+#home{
+    background-image: url("./assets/imageBg_heroSection.jpg");
+}
