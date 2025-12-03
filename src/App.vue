@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup >
 import Header from './components/Header.vue'
 import Hero from  "./view/Hero.vue"
 import featuresDishes from './components/features/featuresDishes.vue';
