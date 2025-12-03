@@ -1,5 +1,9 @@
 <script setup>
 import cardFeatures from "../features/components/cardFeatures.vue";
+import burgerImg from '../assets/features-dishes-images/featuresBurger.jpg'
+import friesImg from '../assets/features-dishes-images/featuresPotato.jpg'
+import chickenImg from '../assets/features-dishes-images/featureChickens.jpg'
+import saladImg from '../assets/features-dishes-images/featureSales.jpg'
 </script>
 
 <template>
@@ -10,22 +14,22 @@ import cardFeatures from "../features/components/cardFeatures.vue";
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-items-center">
       <cardFeatures
           title="Signature Burger"
-          image="src/assets/features-dishes-images/featuresBurger.jpg"
+          :image="burgerImg"
           description="Juicy beef patty"
       />
       <cardFeatures
           title="Crispy Fries"
-          image="src/assets/features-dishes-images/featuresPotato.jpg"
+          :image="friesImg"
           description="Golden fries potatoes"
       />
       <cardFeatures
           title="Grilled Chicken"
-          image="src/assets/features-dishes-images/featureChickens.jpg"
+          :image="chickenImg"
           description="Perfectly seasoned grilled chickens"
       />
       <cardFeatures
           title="Fresh Salad"
-          image="src/assets/features-dishes-images/featureSales.jpg"
+          :image="saladImg"
           description="Healthy mix and organic"
       />
     </div>
