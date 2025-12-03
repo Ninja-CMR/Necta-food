@@ -7,7 +7,7 @@ import featuresDishes from './components/features/featuresDishes.vue';
 <template>
     <Header/>
      <Hero/>
-      <featuresDishes />
+  <featuresDishes />
 </template>
 
 <style scoped>

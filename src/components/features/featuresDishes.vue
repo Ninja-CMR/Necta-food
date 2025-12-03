@@ -1,9 +1,9 @@
 <script setup>
 import cardFeatures from "../features/components/cardFeatures.vue";
-import burgerImg from '../assets/features-dishes-images/featuresBurger.jpg'
-import friesImg from '../assets/features-dishes-images/featuresPotato.jpg'
-import chickenImg from '../assets/features-dishes-images/featureChickens.jpg'
-import saladImg from '../assets/features-dishes-images/featureSales.jpg'
+import burgerImg from '../../assets/features-dishes-images/featuresBurger.jpg'
+import friesImg from '../../assets/features-dishes-images/featuresPotato.jpg'
+import chickenImg from '../../assets/features-dishes-images/featureChickens.jpg'
+import saladImg from '../../assets/features-dishes-images/featureSales.jpg'
 </script>
 
 <template>
