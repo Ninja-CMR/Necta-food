@@ -2,6 +2,16 @@
 body{
     font-family: "Roboto", sans-serif;
 }
-#home{
+#home {
     background-image: url("./assets/imageBg_heroSection.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    #home {
+        background-position: top center;
+    }
 }
