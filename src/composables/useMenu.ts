@@ -4,7 +4,7 @@ export function useMenu() {
     const isOpen = ref(false);
 
     const toggleMenu = () => {
-        isOpen.value = !isOpen.value;
+        isOpen.value = !isOpen.value
     };
 
     const closeMenu = () => {
