@@ -57,30 +57,4 @@ import { menuItems } from '../../../utils/menuData.ts'
 </template>
 
 <style>
-
-@keyframes slideDown {
-  from {
-    height: 0;
-  }
-  to {
-    height: var(--reka-accordion-content-height);
-  }
-}
-
-@keyframes slideUp {
-  from {
-    height: var(--reka-accordion-content-height);
-  }
-  to {
-    height: 0;
-  }
-}
-
-.data-\[state=open\]\:animate-slideDown {
-                animation: slideDown 300ms cubic-bezier(0.87, 0, 0.13, 1);
-              }
-
-.data-\[state=closed\]\:animate-slideUp {
-                animation: slideUp 300ms cubic-bezier(0.87, 0, 0.13, 1);
-              }
 </style>
