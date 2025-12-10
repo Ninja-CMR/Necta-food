@@ -53,7 +53,6 @@ import photoAbout from '../assets/photoAbout.jpg'
           alt="About Necta Food"
           class="w-full h-auto object-cover rounded-2xl md:w-1/2 md:h-auto"
       >
-
     </div>
   </div>
 </template>

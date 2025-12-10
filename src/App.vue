@@ -4,6 +4,7 @@ import Hero from  "./view/Hero.vue"
 import featuresDishes from './components/features/featuresDishes.vue';
 import fullMenu from './view/fullMenu.vue'
 import About from './view/About.vue'
+import findUs from './view/findUs.vue'
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import About from './view/About.vue'
   <featuresDishes />
   <fullMenu/>
   <About/>
+  <findUs/>
 </template>
 
 <style scoped>
