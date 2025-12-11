@@ -3,7 +3,7 @@ import photoAbout from '../assets/photoAbout.jpg'
 </script>
 
 <template>
-  <div class="mt-[55px]">
+  <div id="about" class="mt-[55px]">
 
     <div class="flex flex-col md:flex-row gap-[30px] justify-center m-4 md:m-10 md:mx-auto md:max-w-6xl">
 

@@ -12,7 +12,7 @@
       <nav class="hidden md:flex flex-row justify-around gap-5 bg-white p-5 font-bold">
         <a href="#home">Home</a>
         <a href="#about">About</a>
-        <a href="#location">Location</a>
+        <a href="#find-us">Location</a>
         <a href="#contact">Contact</a>
       </nav>
       <button class="hidden md:block bg-red-800 px-5 py-3 text-white rounded-full font-bold">Order Now</button>

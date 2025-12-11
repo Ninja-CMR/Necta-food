@@ -7,7 +7,7 @@ import saladImg from '../../assets/features-dishes-images/saladeFeature.jpg'
 </script>
 
 <template>
-  <section id="about" class="py-16 px-4 bg-gray-50">
+  <section class="py-16 px-4 bg-gray-50">
     <h1 class="text-4xl md:text-5xl font-bold mb-5 text-center text-red-800 drop-shadow-lg">
       Featured Dishes
     </h1>

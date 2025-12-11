@@ -5,6 +5,7 @@ import featuresDishes from './components/features/featuresDishes.vue';
 import fullMenu from './view/fullMenu.vue'
 import About from './view/About.vue'
 import findUs from './view/findUs.vue'
+import openingHours from './view/openingHours.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import findUs from './view/findUs.vue'
   <fullMenu/>
   <About/>
   <findUs/>
+  <openingHours/>
 </template>
 
 <style scoped>

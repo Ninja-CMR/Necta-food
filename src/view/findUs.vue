@@ -7,7 +7,8 @@
 </script>
 
 <template>
-    <div class="mt-[100px]">
+  <section id="find-us">
+    <div class="mt-[100px] mb-[100px]">
       <h1 class="text-4xl md:text-5xl font-bold mb-5 text-center text-red-800 drop-shadow-lg">
         Find <span class="text-black">Us</span>
       </h1>
@@ -52,6 +53,7 @@
         </div>
       </div>
     </div>
+  </section>
 </template>
 
 <style scoped>

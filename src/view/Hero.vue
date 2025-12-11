@@ -25,14 +25,14 @@
       </p>
       <div class="flex flex-col  sm:flex-row gap-4 sm:gap-6">
         <a
-            href="#"
+            href="#find-us"
             class="flex items-center justify-center gap-2 bg-red-700 hover:bg-red-600 px-6 py-3 rounded-3xl text-lg font-semibold transition-all duration-300"
         >
           <img src="../assets/Icon/icons8-whatsapp-48.png" class="w-[32px]" />
           Order via WhatsApp
         </a>
         <a
-            href="#"
+            href="#full-menu"
             class="flex items-center gap-2 justify-center bg-orange-600 hover:bg-orange-500 px-6 py-3 rounded-3xl text-lg font-semibold transition-all duration-300"
         >
           <img src="../assets/Icon/icons8-burger-48.png" class="w-[32px]" />
