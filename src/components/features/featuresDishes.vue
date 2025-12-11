@@ -9,7 +9,7 @@ import saladImg from '../../assets/features-dishes-images/saladeFeature.jpg'
 <template>
   <section class="py-16 px-4 bg-gray-50">
     <h1 class="text-4xl md:text-5xl font-bold mb-5 text-center text-red-800 drop-shadow-lg">
-      Featured Dishes
+      Featured <span class="text-4xl md:text-5xl font-bold mb-5 text-center text-black drop-shadow-lg">Dishes</span>
     </h1>
     <p class="text-center text-xl md:text-2xl mb-12 text-gray-600">Try our most popular menu items</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-items-center">
