@@ -6,6 +6,7 @@ import fullMenu from './view/fullMenu.vue'
 import About from './view/About.vue'
 import findUs from './view/findUs.vue'
 import openingHours from './view/openingHours.vue'
+import Formulaire from './view/Formulaire.vue'
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import openingHours from './view/openingHours.vue'
   <About/>
   <findUs/>
   <openingHours/>
+  <Formulaire/>
 </template>
 
 <style scoped>
