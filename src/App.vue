@@ -7,6 +7,7 @@ import About from './view/About.vue'
 import findUs from './view/findUs.vue'
 import openingHours from './view/openingHours.vue'
 import Formulaire from './view/Formulaire.vue'
+import Footer from './components/footer.vue'
 </script>
 
 <template>
@@ -18,6 +19,7 @@ import Formulaire from './view/Formulaire.vue'
   <findUs/>
   <openingHours/>
   <Formulaire/>
+  <Footer/>
 </template>
 
 <style scoped>
