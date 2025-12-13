@@ -13,9 +13,9 @@
         <a href="#home">Home</a>
         <a href="#about">About</a>
         <a href="#find-us">Location</a>
-        <a href="#contact">Contact</a>
+        <a href="#find-us">Contact</a>
       </nav>
-      <button class="hidden md:block bg-red-800 px-5 py-3 text-white rounded-full font-bold">Order Now</button>
+      <button class="hidden md:block bg-red-800 px-5 py-3 text-white rounded-full font-bold cursor-pointer">Order Now</button>
 
       <button
           @click="toggleMenu"
