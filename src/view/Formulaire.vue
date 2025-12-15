@@ -69,8 +69,7 @@ const handleSubmission = (values: any, { resetForm }: any) => {
             <button
                 type="submit"
                 class="bg-red-800 hover:bg-red-700 text-white font-semibold py-3 px-8 rounded-lg transition duration-200 shadow-md"
-            >
-              Envoyer le Message
+            >Send a message
             </button>
           </div>
         </Form>

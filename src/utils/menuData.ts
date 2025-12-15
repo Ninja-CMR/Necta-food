@@ -32,7 +32,7 @@ export const menuItems = [
     },
     {
         value: 'crudites',
-        title: 'Crudités',
+        title: 'Crudites',
         content: [
             'Salade simple',
             'Salade bolonaise',
@@ -42,7 +42,7 @@ export const menuItems = [
     },
     {
         value: 'accompagnements',
-        title: 'Accompagnements',
+        title: 'Accompagnments',
         content: [
             'Riz parfumé',
             'Frites de pomme / Plantain',
@@ -55,7 +55,7 @@ export const menuItems = [
     },
     {
         value: 'autres',
-        title: 'Autres',
+        title: 'Others',
         content: [
             'Salade de fruits',
             'Crêpes',
