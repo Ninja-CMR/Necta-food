@@ -22,7 +22,6 @@ const {
   value: inputValue,
   errorMessage,
   handleBlur,
-  meta,
 } = useField<string>(() => props.name, undefined, {
   syncVModel: true,
   validateOnValueUpdate: false,
